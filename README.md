@@ -1,10 +1,10 @@
-# ShareMe Social Media Application
+# Image Sharing Social Media Application
 ![ShareMe](https://i.ibb.co/8cLfj3X/image.png)
-
+# Link for the application
+![ShareMe](https://connectsm.netlify.app/)
 ## Introduction
-This is a code repository for the corresponding video tutorial.
+This repository contains the code-base for this image sharing application.
+The techstacks used are React, Tailwind & Sanity.
 
-Using React, Tailwind & Sanity you'll learn how to build a Full Stack Social Media Application - from start to finish.
-
-## Stay up to date with new projects
-New major projects coming soon, subscribe to the mailing list to stay up to date https://jsmasterypro.com/newsletter
+## Further exploration
+I am committed to advancing its features and applications. Your valuable suggestions are always welcome.
