@@ -1,5 +1,3 @@
-# Image Sharing Social Media Application
-![ShareMe](https://i.ibb.co/8cLfj3X/image.png)
 # Link for the application
 https://connectsm.netlify.app/
 ## Introduction
